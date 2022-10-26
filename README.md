@@ -1,2 +1,2 @@
 # bot-music-telegram
-Bot music for telegram , This bot is developed with the lib telegraf
+ Music bot for telegram  , This bot is developed with the lib telegraf
